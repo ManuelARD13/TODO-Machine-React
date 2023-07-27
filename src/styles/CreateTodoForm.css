@@ -1,0 +1,25 @@
+.todo-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #b9b1b1;
+  box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
+  padding: 5vw;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.todo-input {
+  width: 30vw;
+  height: 15vh;
+  padding: 1vw;
+  margin: 2vw;
+}
+
+h5 {
+  margin: 0;
+  text-align: center;
+}
